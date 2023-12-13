@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movy</string>
+    <string name="facebook_app_id">375805587785759</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">7d59036080181b688ecd65d2ca5bfe48</string>
+    <string name="GOOGLE_MAPS_API_KEY">AIzaSyDXmj7TQ_d6Ns2mBHXFKGL5iYDXogA6aww</string>
+</resources>

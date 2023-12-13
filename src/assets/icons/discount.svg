@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.326" height="34.912" viewBox="0 0 34.326 34.912">
+  <g id="Descuentos.icon" transform="translate(-111.383 -761.3)">
+    <path id="Trazado_224" data-name="Trazado 224" d="M121.811,774l11.437-11.437a1.324,1.324,0,0,1,1.872,0l2.8,2.8a.394.394,0,0,1,0,.557l-.022.022a2.474,2.474,0,0,0,0,3.5h0a2.474,2.474,0,0,0,3.5,0h0a.394.394,0,0,1,.557,0l2.619,2.619a1.324,1.324,0,0,1,0,1.872L133.04,785.462a.658.658,0,0,1-.465.193h-1.321a.658.658,0,0,0-.658.658v1.722a.657.657,0,0,1-.193.465l-6.449,6.449a1.324,1.324,0,0,1-1.872,0l-2.753-2.753a.426.426,0,0,1,0-.6h0a2.648,2.648,0,0,0,0-3.744h0a2.648,2.648,0,0,0-3.744,0l-.089.089a.426.426,0,0,1-.6,0l-2.374-2.374a1.324,1.324,0,0,1,0-1.872l6.739-6.739a.658.658,0,0,1,.465-.193h1.245a.657.657,0,0,0,.658-.665c-.007-.532-.014-1.25-.008-1.64A.656.656,0,0,1,121.811,774Z" fill="none" stroke="#ffae3b" stroke-width="1.5"/>
+    <line id="Línea_57" data-name="Línea 57" x2="0.892" y2="0.892" transform="translate(122.972 777.9)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_58" data-name="Línea 58" x2="0.892" y2="0.892" transform="translate(125.698 780.626)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_59" data-name="Línea 59" x2="0.892" y2="0.892" transform="translate(128.425 783.353)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_60" data-name="Línea 60" x1="2.467" y2="2.467" transform="translate(123.144 785.572)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_61" data-name="Línea 61" x1="2.467" y2="2.467" transform="translate(121.079 783.507)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_62" data-name="Línea 62" x1="2.467" y2="2.467" transform="translate(119.014 781.442)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_63" data-name="Línea 63" x2="2.207" y2="7.734" transform="translate(131.631 770.632)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle id="Elipse_18" data-name="Elipse 18" cx="1.426" cy="1.426" r="1.426" transform="translate(135.152 772.437)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle id="Elipse_19" data-name="Elipse 19" cx="1.426" cy="1.426" r="1.426" transform="translate(127.582 772.645)" fill="none" stroke="#fdcd89" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

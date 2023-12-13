@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72.706" height="56.09" viewBox="0 0 72.706 56.09">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffef89"/>
+      <stop offset="1" stop-color="#ffbc00"/>
+    </linearGradient>
+    <filter id="Trazado_245" x="0" y="0" width="72.706" height="44.78" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd500"/>
+      <stop offset="1" stop-color="#ffae3b"/>
+    </linearGradient>
+    <filter id="Trazado_246" x="6.055" y="30.046" width="60.763" height="26.044" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Corona" transform="translate(-424.46 -462.003)">
+    <g transform="matrix(1, 0, 0, 1, 424.46, 462)" filter="url(#Trazado_245)">
+      <path id="Trazado_245-2" data-name="Trazado 245" d="M488.166,477.208c-.18.1-.147.306-.21.461a2.533,2.533,0,0,1-1.135,1.435,1.883,1.883,0,0,0-1.011,1.509c-1.022,4.192-2.073,8.376-3.118,12.561a1.678,1.678,0,0,1-1.925,1.511q-19.921.116-39.843.091a1.621,1.621,0,0,1-1.866-1.436c-1.083-4.323-2.169-8.645-3.219-12.976a1.47,1.47,0,0,0-.784-1.094,3.159,3.159,0,0,1-1.012-4.576,3.219,3.219,0,0,1,4.613-.69,3.167,3.167,0,0,1,.354,4.71c-.218.231-.251.345-.007.586,1.317,1.3,2.6,2.641,3.921,3.934a5.693,5.693,0,0,0,8.67-.561c2.274-2.941,4.484-5.93,6.732-8.891.178-.234.143-.37-.023-.588a3.2,3.2,0,1,1,5.045-.037.4.4,0,0,0,.014.583c2.2,2.929,4.374,5.879,6.589,8.8a5.708,5.708,0,0,0,8.844.63c1.3-1.272,2.567-2.569,3.859-3.845.2-.194.255-.3.032-.541a3.2,3.2,0,1,1,5.373-3.011c.02.069.022.138.109.154Z" transform="translate(-424.46 -462)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 424.46, 462)" filter="url(#Trazado_246)">
+      <path id="Trazado_246-2" data-name="Trazado 246" d="M478.433,593.288c-6.426,0-12.851-.023-19.277.018-1.383.009-2.152-.6-2.058-2.09.061-.975.008-3.239.013-4.217a1.559,1.559,0,0,1,1.753-1.734q7.983,0,15.966,0h23.015c1.489,0,2.007.524,2.007,2.032,0,.979,0,3.239,0,4.218a1.566,1.566,0,0,1-1.768,1.774Q488.258,593.291,478.433,593.288Z" transform="translate(-442.04 -549.22)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>517226636364-i5jqjroqq4r2127mr2h1j8rdqbkj7m0m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.517226636364-i5jqjroqq4r2127mr2h1j8rdqbkj7m0m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>517226636364-7jlsoop9njofnpmmdbbfa3c21u008fn0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCH8N2OHeG2yzHTHrmFURylp80Xcgn6nqo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>517226636364</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ogma.movy</string>
+	<key>PROJECT_ID</key>
+	<string>movy-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movy-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:517226636364:ios:6ef2373814e945d298c0e9</string>
+</dict>
+</plist>
